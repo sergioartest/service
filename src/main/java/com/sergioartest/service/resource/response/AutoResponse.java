@@ -8,6 +8,7 @@ public class AutoResponse {
     private Double price;
 
     //Comentario de prueba
+    //otra cosa
     public AutoResponse(Long id, String brand, String model, Double price) {
         this.id = id;
         this.brand = brand;
