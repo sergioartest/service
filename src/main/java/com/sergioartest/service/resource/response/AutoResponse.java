@@ -2,6 +2,7 @@ package com.sergioartest.service.resource.response;
 
 public class AutoResponse {
 
+    //prueba
     private Long id;
     private String brand;
     private String model;
